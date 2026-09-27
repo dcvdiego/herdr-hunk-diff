@@ -35,18 +35,18 @@
     "test:watch": "vitest"
   },
   "dependencies": {
-    "hunkdiff": "0.20.1",
+    "hunkdiff": "0.22.0",
     "smol-toml": "^1.8.0"
   },
   "devDependencies": {
     "@eslint/js": "^9.39.5",
-    "@types/node": "^22.0.0",
+    "@types/node": "^22.20.4",
     "eslint": "^9.39.5",
     "eslint-config-prettier": "^10.1.8",
-    "globals": "^17.11.0",
-    "prettier": "^3.9.6",
+    "globals": "^17.12.0",
+    "prettier": "^3.9.9",
     "typescript": "^5.6.0",
-    "typescript-eslint": "^8.68.0",
-    "vitest": "^5.0.0"
+    "typescript-eslint": "^8.70.1",
+    "vitest": "^5.0.2"
   }
 }
